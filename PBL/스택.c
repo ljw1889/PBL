@@ -50,7 +50,7 @@ int size() {
 	return (top + 1);   // 스택의 사이즈를 리턴함.
 }
 
-int main(void) {
+void main(void) {
 	push(1);
 	push(2);
 	push(3);
@@ -61,5 +61,4 @@ int main(void) {
 	printf("%d\n", pop());
 	printf("%d\n", pop());
 	printf("%d\n", pop());
-	return 0;
 }
