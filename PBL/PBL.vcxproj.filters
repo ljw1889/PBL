@@ -18,5 +18,59 @@
     <ClCompile Include="스택.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="제로.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체를 요소로 하는 스택.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="일반적인 구조체 스택.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="동적할당스택.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="큐2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="평균은 넘겠지.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="최댓값.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="숫자의 개수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="회문 판별.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="평균과 표준편차 구하기_Express 교제 461 페이지 8번 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Express 교제 511p 포인터 12번 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스택 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="제로 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="큐2 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="중위에서 후위식.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호 검사.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="원형큐를 만들어보자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="리스트간 연결을 시켜보자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
