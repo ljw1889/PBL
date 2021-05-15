@@ -72,5 +72,41 @@
     <ClCompile Include="리스트간 연결을 시켜보자.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="요세푸스.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="괄호 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트 14번 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트 15번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트 20번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연결리스트 21번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="피보나치 수 5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="팩토리얼 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="수 정렬하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="수 정렬하기(삽입 정렬).c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="수 정렬하기(버블 정렬).c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="소트 인사이드.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
