@@ -145,10 +145,12 @@
     <ClCompile Include="구조체를 요소로 하는 스택.c" />
     <ClCompile Include="동적할당스택.c" />
     <ClCompile Include="리스트간 연결을 시켜보자.c" />
+    <ClCompile Include="바이러스 문제.c" />
     <ClCompile Include="소트 인사이드.c" />
     <ClCompile Include="수 정렬하기(버블 정렬).c" />
     <ClCompile Include="수 정렬하기(삽입 정렬).c" />
     <ClCompile Include="수 정렬하기.c" />
+    <ClCompile Include="수 정렬하기2.c" />
     <ClCompile Include="숫자의 개수.c" />
     <ClCompile Include="스택 문제.c">
       <SDLCheck Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</SDLCheck>
@@ -164,13 +166,17 @@
     <ClCompile Include="제로.c" />
     <ClCompile Include="스택.c" />
     <ClCompile Include="중위에서 후위식.c" />
+    <ClCompile Include="최대 힙 문제.c" />
     <ClCompile Include="최댓값.c" />
     <ClCompile Include="큐2 문제.c" />
     <ClCompile Include="큐2.c" />
+    <ClCompile Include="트리 순회 문제.c" />
     <ClCompile Include="팩토리얼 문제.c" />
     <ClCompile Include="평균과 표준편차 구하기_Express 교제 461 페이지 8번 문제.c" />
     <ClCompile Include="평균은 넘겠지.c" />
+    <ClCompile Include="포인터 활용 6번.c" />
     <ClCompile Include="피보나치 수 5.c" />
+    <ClCompile Include="하노이 탑 문제.c" />
     <ClCompile Include="회문 판별.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

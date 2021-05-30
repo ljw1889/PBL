@@ -108,5 +108,23 @@
     <ClCompile Include="소트 인사이드.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="트리 순회 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="수 정렬하기2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="바이러스 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="하노이 탑 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="최대 힙 문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 활용 6번.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
