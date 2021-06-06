@@ -168,6 +168,7 @@
     <ClCompile Include="중위에서 후위식.c" />
     <ClCompile Include="최대 힙 문제.c" />
     <ClCompile Include="최댓값.c" />
+    <ClCompile Include="최소 스패닝 트리.c" />
     <ClCompile Include="큐2 문제.c" />
     <ClCompile Include="큐2.c" />
     <ClCompile Include="트리 순회 문제.c" />
